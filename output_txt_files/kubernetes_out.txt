@@ -1,1 +1,5 @@
-<paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): pods "project4" already exists
+NAME       READY   STATUS    RESTARTS   AGE
+project4   1/1     Running   0          4m40s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
